@@ -1,2 +1,2 @@
 # codwa
-codewar challenges
+a set of daily code war challenges 
